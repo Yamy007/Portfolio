@@ -50,7 +50,7 @@ ScrollReveal().reveal('.about-content, .home-content p', {origin:'bottom'});
 
 
 const typed = new Typed('.multiple-text', {
-    strings: ["Fullstack Developer", "Python Django", "React JS"],
+    strings: ["Web Developer", "Freelancer", "Designer"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,

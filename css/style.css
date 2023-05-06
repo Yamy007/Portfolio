@@ -14,8 +14,8 @@
 
 
 :root{
-    --bg-color: #20242D;
-    --second-bg-color: #313745;
+    --bg-color: #010100;
+    --second-bg-color: #020200;
     --text-color: #fff;
     --main-color: #0ef;
 }
@@ -378,8 +378,8 @@ span{
     width: 100%;
     padding: 1.5rem;
     font-size: 2rem;
-    color:var(--text-color);
-    background: var(--second-bg-color);
+    color:#000;
+    background: #fff;
     border-radius: .8rem;
     margin: .7rem 0;
 }
